@@ -1,1 +1,18 @@
+using System;
+
+namespace Probleme
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+
+            Console.WriteLine("Est-ce que tu vois ce message ?");
+
+            Console.WriteLine("Si tu vois ce message dis    :   On a réussi ");
+
+        }
+    }
+}
 
